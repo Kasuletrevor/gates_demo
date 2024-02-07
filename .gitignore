@@ -1,0 +1,6 @@
+db/*
+__pycache__
+base.py
+index.html
+index_1.html
+.env

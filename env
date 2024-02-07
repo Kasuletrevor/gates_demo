@@ -1,0 +1,5 @@
+SEMANTIC_MODEL_PATH=qa_datasets/model
+QA_DATASET_PATH=qa_datasets/final_dataset
+QA_ANSWERS_DATASET_NAME=answers.csv
+VECTOR_DATABASE_PATH=qa_datasets/vdbs
+COLLECTION_NAME=question_answer

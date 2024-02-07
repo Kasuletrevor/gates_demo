@@ -1,0 +1,185 @@
+animal_crop,category,created_at,id,language,location,question_text,sub_topic,topic,question_id
+Cattle,Animal,2023-11-15 07:16:30,3746,English,Ngora,Is it ideal for a farmer to carry out grooming of cattle?,,Veterinary care,e9250723-1adf-4b7a-89e4-b264658e6a7b
+Cattle,Animal,2023-11-15 07:16:30,3755,English,Kabale,What are the two types of cattle in East Africa?,,Breeds,ddddc332-7b56-4276-88c5-0404ddd75ec3
+Cattle,Animal,2023-11-15 07:16:30,3761,English,Kabale,What is the gestation period of acow?,,Products,b5fa273e-f01e-4e6a-8b4f-16bdfaf2d2d9
+Fish,Animal,2023-11-15 07:16:30,3749,English,Ngora,Is it recommended for a farmer to stock both tilapia and Catfish in the same pond?,,Species,9ead7d5e-7cba-4a1e-b15c-802eb1b85844
+Fish,Animal,2023-11-15 07:16:30,3748,English,Ngora,How often should a farmer feed on his fish in the ponds?,,Feeds/ Food,69ba2181-eacf-408d-9a57-b2984e2f1c24
+Cattle,Animal,2023-11-15 07:16:30,3785,English,Ngora,What are the advantages of using a milking machine?,,Harvesting,38f77da7-3178-43ad-b299-8d4d1f072769
+avocado,Crop,2023-11-15 07:16:30,3769,English,Kamuli,What causes yellow patches/spots on Avocado leaves ,,Diseases,9d8ef9b5-eb8d-4750-a897-66b1164ec46e
+avocado,Crop,2023-11-15 07:16:30,3771,English,Kamuli,What causes folded leaves in avocado?,,Diseases,bf51757c-7977-4fcf-8428-071c333d0b95
+tomatoes,Crop,2023-11-15 07:16:30,3774,English,Kamuli,How long does the avocado take to mature and be harvested,,Harvesting,b36fb9a8-12d4-412d-9805-71a87f3f21c2
+avocado,Crop,2023-11-15 07:16:30,3773,English,Kamuli,How can I control pests in an avocado garden?,,Pests,e6d44e3d-5814-4326-a807-472a52afa5d1
+Cattle,Animal,2023-11-15 07:16:30,3799,English,Kayunga,How many times do you deworm cattle,,Deworming,2a4d8f79-8e1e-4852-80c1-203637bc8f8d
+Cattle,Animal,2023-11-15 07:16:30,3800,English,kayunga,when do we carry out deworming in cattle,,Deworming,87615627-3232-4ae8-b161-b58452c8e5b6
+Cattle,Animal,2023-11-15 07:16:30,3825,English,Ngora,How do you promote hygienic milk and transportation?,,Products,ed5a2914-39a8-422e-9f6e-48ac06c70188
+Cattle,Animal,2023-11-15 07:16:30,3844,English,Ngora,Does open castration have any effect on the growth of the bull?,,Breeds,1f926578-57b7-4e6e-820e-1a026e043682
+Goats,Animal,2023-11-15 07:16:30,3843,English,Kyankwanzi,what local breeds are recommended for meat production?,,Breeds,c8f5675f-6961-4674-aa0b-679700d98185
+Cattle,Animal,2023-11-15 07:16:30,3842,English,Kyankwanzi,What are the steps carried out when deworming cattle?,,Deworming,daebcb2b-1a01-4bc0-ab3c-c858b2bdf18e
+Cattle,Animal,2023-11-15 07:16:30,3826,English,Ngora,Do we have any new pasture type which can enhance milk production in cattle?,,Feeds/ Food,d36de821-7d23-41f6-9b82-3c42556f8ba3
+coffee,Crop,2023-11-15 07:16:30,3893,English,Kayunga,What majors do you take while planting coffee,,"Planting - Seed Selection, Planting",8f2f1ab1-4896-43d5-996c-3bbc9f7c1e07
+coffee,Crop,2023-11-15 07:16:30,3899,English,Kayunga,How is pruning done in coffee plants   ,,Others,293e37cd-863d-4740-b446-5e245340d911
+tomatoes,Crop,2023-11-15 07:16:30,3775,English,Mayuge,What makes Tomatoes to wilt at various stages and finally dry out,,Diseases,350c2331-ec4a-42e2-b637-dc32adaab697
+avocado,Crop,2023-11-15 07:16:30,3767,English,Kamuli,What causes cracks in some avocado fruits?,,Diseases,945ae1eb-cbc4-4866-ab60-980867ed6d81
+avocado,Crop,2023-11-15 07:16:30,3770,English,Kamuli,Which type of avocado is on the highest demand?,,Varieties,f54d99c5-63c2-499f-9d9a-f9c2c63ee121
+tomatoes,Crop,2023-11-15 07:16:30,3833,English,Ngora,Which tomato varieties are resistant to pests and diseases,,Varieties,ed23a3d4-6506-4a50-8e12-c151caf46298
+coffee,Crop,2023-11-15 07:16:30,3929,English,Kayunga,Can we use Dursbun to spray on scales on coffee plant trees?,,"Integrated Pest Management (IPM) - Chemical Controls, Pesticides",d19d015b-7394-455a-83e5-8c4a172b383b
+cattle,Animal,2023-11-15 07:16:30,3768,English,Mayuge,How can nagana be controlled in cattle?,,"Health and disease management - Parasite control, Diseases",811a9801-4c30-4aa5-867c-84be116eb86b
+coffee,Crop,2023-11-15 07:16:30,3894,English,Kayunga,Why do some coffee trees develop yellow leaves,,Diseases,b3361201-0865-4788-a936-0de9b86238d1
+coffee,Crop,2023-11-15 07:16:30,3925,English,Kayunga,what is mulching in coffee plants?,,"Sustainable Agriculture - Water Conservation and Management, Others",2a91db30-756a-4fa7-b686-15d0f7f42df2
+coffee,Crop,2023-11-15 07:16:30,3879,English,Kabale,what are the diseases likely to attack coffee in the dry season?,,"Integrated Pest Management (IPM) - IPM in Practice, Diseases",6976d1a5-62a0-4e44-81f5-8bdd33ebe1d0
+coffee,Crop,2023-11-15 07:16:30,3928,English,Kayunga,what is the best way of controlling scales and mealybugs on the coffee plants?,,Pest control,146bf59c-7f98-42ad-9f85-2e89b97f8d94
+cattle,Animal,2023-11-22 09:07:10,3966,English,Kabale,How many days should you spend after spraying cattle to the next spray ?,,Veterinary care,09676144-0294-4594-b783-e1a0ab969a56
+avocado,Crop,2023-11-22 09:07:10,3977,English,Kamuli,How can diseases be prevented on an avocado garden?,,Diseases,fe744f87-4539-4c4a-b423-0fd1820515c2
+avocado,Crop,2023-11-22 09:07:10,3974,English,Kamuli,Which type of avocado turns green when ripe?,,Varieties,eb5fb8b7-7ea6-4954-9a54-8c7c4683a9c6
+cattle,Animal,2023-11-22 09:07:10,3957,English,Ngora,Is it good to add water in milk while boiling for the baby to take?,,Products,b6f059e4-c4b4-459c-8c12-7c7001044598
+cattle,Animal,2023-11-22 09:07:10,3962,English,Kabale,What are the reasons for domestications of cattle?,,Breeds,c81baaf8-2d83-494d-b3a2-0c3b6ea96e7b
+cattle,Animal,2023-11-22 09:07:10,3950,English,Eastern Uganda,why is red water mostly common in animals is Eastern region,,Diseases,f6af681b-9cf4-44aa-b562-e8eb68b09dee
+cattle,Animal,2023-11-22 09:07:10,3958,English,Ngora,Why is it that if I take milk that is not dilute it makes me to gas and some times even I get diarrhoea,,Products,7f09f82d-5ac1-4521-a2ab-b033ef80ee8f
+cattle,Animal,2023-11-22 09:07:10,3968,English,Kabale,What are the advantages of bucket feeding over natural feeding?,,Feeds/ Food,4b6377b2-d5fa-48e5-9974-f4828e5fb31b
+tomatoes,Crop,2023-11-22 09:07:10,4025,English,Masaka,what is the best tomato variety grown in uganda,,Varieties,4c083435-f228-496d-be96-0de9d76faa08
+tomatoes,Crop,2023-11-22 09:07:10,4023,English,Masaka,what is the biggest pesticide to control tomato thrips,,Pesticides,4ee3048d-2b33-43d4-ad78-f6c0886eacff
+cattle,Animal,2023-11-22 09:32:01,4168,English,Kabale,why ticks affect cows during rainy commonly?,,Pests,e2e624c8-1aad-45c1-8bc6-f1c515994de1
+goats,Animal,2023-11-22 09:32:01,4145,English,Mayuge,which drugs can I use to treat worms in my goats,,Deworming,d7979da8-8a46-4aac-be8c-f6adc7a81abc
+cattle,Animal,2023-11-22 09:32:01,4214,English,Uganda,how important is fence to a farmer in da farm,,Diseases,14d13d4a-99e9-4420-b121-f858c7812468
+cattle,Animal,2023-11-22 09:32:01,4201,English,kamuli,how best can a kraal be built?,,Veterinary care,3c460dc9-d233-4c2f-9cb8-a82a0095295d
+cattle,Animal,2023-11-22 09:32:01,4199,English,kamuli,How can a farmer detect a dairy cow?,,Breeds,fe16554d-2b08-4870-b5d6-ae58dda632c6
+cattle,Animal,2023-11-22 09:32:01,4200,English,kamuli,What are the best feeds for dairy cattle?,,Feeds/ Food,857ade8d-1e87-4447-8f48-c4e7fba42a58
+cattle,Animal,2023-11-22 09:32:01,4202,English,kamuli,At what interval should cattle be dewormed?,,Deworming,54c9008a-2bb9-48d9-b386-aa021de850fc
+tomatoes,Crop,2023-11-22 10:40:00,4224,English,Eastern Uganda,What pests attack tomatoes and how can they be controlled ,,Pests,e486a54c-1add-4ac9-8c0b-17aa877d4605
+Goats,Animal,2023-11-22 10:40:00,4228,English,Karamoja,why do most farmers in Karamoja do zero grazing,,"Livestock selection and breeding - Animal characteristics and traits, Feeds/ Food",bc7253d9-6d47-4d0b-b988-76432d815141
+cattle,Animal,2023-11-22 10:40:00,4234,English,kiboga,what causes tick resistance in cattle,,Veterinary care,c2fcdeaf-df36-46f3-b21c-376699d2f38f
+Goats,Animal,2023-11-22 10:40:00,4239,English,mayuge district,Which good breed of goats can I rare in mayuge district,,Breeds,41ae3548-98bf-481e-bf28-ba746cef6933
+Goats,Animal,2023-11-22 10:40:00,4243,English,mayuge district,I can prepare and give my goats to prevent worm infestation in mayuge district,,Diseases,3cd11930-196c-40dd-9768-89666be56609
+Goats,Animal,2023-11-22 10:40:00,4227,English,Uganda,Which diseases attack goats mainly in farm,,Diseases,1033dc28-7b89-4839-8341-f35fd696732a
+Goats,Animal,2023-11-22 10:40:00,4226,English,Karamoja,Why is it that most people in Karamoja region rear gots,,Breeds,957f323b-b42f-4c3f-a77a-3cb9bcf5823d
+Tomatoes,Crop,2023-11-22 10:40:00,4292,English,Kamuli,Which is the best fertilizer for tomatoes?,,Fertilizers,4f66dbc6-af0b-4b0c-b855-0f4629535e83
+tomatoes,Crop,2023-11-22 10:40:00,4281,English,Wakiso,How many days does a seed of a tomato take to germinate?,,Seeds,6d1da61b-3acd-40a3-b849-3b9244e15cdd
+tomatoes,Crop,2023-11-22 10:40:00,4280,English,Wakiso,Before putting in seeds in soil what type of fertilizer is used?,,Seeds,816b467f-97ef-423c-9e7a-3827cee5668a
+Tomatoes,Crop,2023-11-22 10:40:00,4295,English,Kamuli,At what interval should tomatoes be sprayed?,,Market,b44a5312-ea04-4724-a945-39dc52287d6b
+Tomatoes,Crop,2023-11-22 10:40:00,4293,English,Kamuli,How best should tomatoes be harvested?,,Market,a26e26eb-a91e-4872-9fcf-00928c5a0904
+Tomatoes,Crop,2023-11-22 10:40:00,4305,English,Kamuli,What causes holes in tomato fruits?,,Diseases,48164342-76cd-4978-bf65-9555057fb227
+Tomatoes,Crop,2023-11-22 10:40:00,4306,English,Kamuli,What causes yellow and black spots in tomato fruits?,,Diseases,7914729e-bfaa-4471-9ec8-b86bc88b5d9d
+Tomatoes,Crop,2023-11-22 10:40:00,4299,English,Kamuli,Why do locusts break and destroy nursery bedded tomatoes?,,Pests,37213ee4-ebe3-4667-a18a-b3d5815ebba8
+Tomatoes,Crop,2023-11-22 10:40:00,4283,English,Kamuli,Is there any fertilizers or boosters for tomatoes?,,Fertilizers,3a67fa02-3e0a-4b5d-af9d-743a5edf81b5
+Tomatoes,Crop,2023-11-22 10:40:00,4296,English,Kamuli,Which diseases most affect tomatoes?,,Diseases,1f0ddd45-cd26-41f1-a2e4-09c5d49a17fd
+Goats,Animal,2023-11-22 10:40:00,4273,Luganda,Kamuli,Embuzi zirina kugemesebwa luvanyuma lwa bbanga ki?,,Vaccination,3b2eeb2a-24ed-43af-92a5-d9100e615351
+Goats,Animal,2023-11-22 10:40:00,4272,Luganda,Kamuli,Embuzi nazo balina okuziwa ebijjimusa?,,Veterinary care,78e6977a-1892-428b-8843-8caa6f315f6f
+Goats,Animal,2023-11-22 10:40:00,4282,English,Kabale,Is it possible to get a goat that produce milk here in kabale district?,,Breeds,5f5fd39e-476c-4bdb-8d9b-0c655833701f
+cattle,Animal,2023-11-22 10:40:00,4313,English,Kabale,who is the leading cattle farmer in kabale and how much milk does he produce every day?,,Products,d64f7af5-eb85-46fd-96d4-a3e92d17d60c
+Goats,Animal,2023-11-22 10:40:00,4304,English,Kabale,Is milk for goats good for testing?,,Veterinary care,f8cfcf9b-2c35-4979-ba59-3590e39a3d47
+tomatoes,Crop,2023-11-22 10:40:00,4323,English,kayunga,How deep should one plant tomatoes,,Seeds,628791d6-7495-4ab8-92de-55c8dcf31ec9
+tomatoes,Crop,2023-11-22 10:40:00,4349,English,Ngora,How much is a kilo gram of the local type of tomatoes ( isalamejei ) in Kampala.,,Market,cefbbcbd-b157-489f-ae62-53fa69862d3d
+tomatoes,Crop,2023-11-22 10:40:00,4326,English,kayunga,what do tomatoes need most,,Seeds,55b004db-ee6b-4898-942e-166002035318
+tomatoes,Crop,2023-11-22 10:40:00,4325,English,kayunga,What are the best fertilizers for tomatoes ,,Fertilizers,fbc6e954-4eb9-42a3-9e7a-154835981b07
+onions,Crop,2023-11-22 10:40:00,4353,English,Ngora,What variety of onions is resistant to pests and diseases,,Varieties,f3e55d6c-70a6-4980-b3ac-c1ee5c34d6f0
+onions,Crop,2023-11-22 10:40:00,4356,English,Ngora,How much is a kilo gram of Onions,,Market,fecf2c72-2851-4357-a1b5-51db080a380b
+onions,Crop,2023-11-22 10:40:00,4354,English,Ngora,How many varieties of onions do we have in Uganda,,Varieties,402dfb4d-4233-4f4b-98ff-7f54023dd61f
+onions,Crop,2023-11-22 10:40:00,4355,English,Ngora,What are the pests that attack onions.,,Pests,1377520f-2f40-49e4-a1ce-4474601a7c1b
+cattle,Animal,2023-11-22 10:40:00,4350,English,Ngora,Is it possible for some one to make yogurt at home?,,Products,7518897f-b5fa-496b-bd37-625d10703c78
+tomatoes,Crop,2023-11-22 10:40:00,4346,English,Ngora,Which variety of tomatoes is on high demand?,,Varieties,5aef5d20-9fe3-4dc5-9d89-3ab65c85044d
+tomatoes,Crop,2023-11-22 10:40:00,4324,English,kayunga,How often should tomatoes be watered,,Seeds,bdb633c8-93e1-46f7-8c28-9f04ce10b328
+tomatoes,Crop,2023-11-22 10:40:00,4345,English,Ngora,which variety of tomatoes is resistant to pests and diseases ?,,Varieties,4d7ce832-f9a4-48e9-924b-4ee99f0bf8ad
+Tomatoes,Crop,2023-11-22 10:40:00,4348,English,Ngora,How much is a kilo of tomatoes in mbale,,Market,c28e27a7-7b89-44df-b020-1154c7380f24
+Goats,Animal,2023-11-22 10:40:00,4343,English,Kabale,9. Give three types of goats kept in Uganda?,,Species,4c2e0d2e-a810-4ec7-b2a5-a582f0182fb7
+Tomatoes,Crop,2023-11-22 10:40:00,4347,English,Ngora,How many varieties of tomatoes do we have in Uganda?,,Varieties,13c1989d-8106-47c6-a317-f10b15179de3
+onions,Crop,2023-11-22 10:40:00,4364,English,Ngora,what is the best way of controlling pests and diseases in onions garden,,Pests,eb2ebe2e-04c5-4398-8670-12a25323b337
+tomatoes,Crop,2023-11-22 10:40:00,4376,English,Kabale,why do farmers stake tomatoes,,Varieties,d53eb200-7f4e-4b2d-b9ee-307e85ad8f04
+Tomatoes,Crop,2023-11-22 10:49:53,4408,English,NGORA,How can a farmer differenciate between bacterial spot and bacterial wilt diseases on a tomato plant?,,Diseases,2418b4ec-189f-4b1d-94d6-78049d8ec7fa
+onions,Crop,2023-11-22 10:40:00,4366,English,Ngora,what is the best way of preventing the activity above,,Seeds,7f15c050-a8b7-42e7-a782-4058ff586ca9
+tomatoes,Crop,2023-11-22 10:40:00,4380,English,Kabale,what causes small spots on tomato fruit that end up rotting.,,Pests,1c6b94a9-afd6-48e2-9e3c-cc073f47817f
+tomatoes,Crop,2023-11-22 10:40:00,4385,English,Buganda region,How useful are tomatoes to the community,,Market,d990138d-5885-4a56-8efb-20573d4c56ce
+Goats,Animal,2023-11-22 10:49:53,4392,English,Kabale,State any four reasons why farmers prefer keeping goats.,,Breeds,125ff860-dd48-4f1f-91e8-968b7490d036
+Tomatoes,Crop,2023-11-22 10:49:53,4407,English,NGORA,what type of soil texture is ideal for planting tomatoes?,,Nature of soil,bf63b92b-ad8b-4694-87c7-d92634421f85
+Tomatoes,Crop,2023-11-22 10:49:53,4409,English,NGORA,what signs does a farmer realize on a tomato plant affected by bacterial wilt disease?,,Diseases,c13b154c-a3e1-447a-8a5d-1892381bbf1a
+Goats,Animal,2023-11-22 10:40:00,4367,English,Kabale,which product comes from milk of goats,,Products,f3c455ee-75b3-44f1-984d-40256e83b7c3
+Tomatoes,Crop,2023-11-22 10:49:53,4400,English,NGORA,which is the best type of tomatoes seeds for planting?,,Seeds,f13026bb-cdc4-4b9b-90a2-ca2383b7f179
+Tomatoes,Crop,2023-11-22 10:40:00,4379,English,Kamuli,Which nature of soil is best for growing tomatoes (each type)?,,Nature of soil,2ed2ff38-f6af-4448-a4d2-f3a39fc08663
+Tomatoes,Crop,2023-11-22 10:49:53,4405,English,NGORA,which is the best chemical for spraying caterpillars on a tomato plant?,,Pests,b4526ea8-a22d-4936-a520-c64bda89aac3
+Goats,Animal,2023-11-22 10:49:53,4393,English,Kabale,State any three leather products from skin goats.,,Products,9e76f90a-86a5-4799-aec2-a9f3e4099c81
+Tomatoes,Crop,2023-11-22 10:49:53,4402,English,NGORA,which is the best season for planting tomatoes?,,Weather,199dcd5e-dd9e-4352-b2ae-cac52d8897f9
+Tomatoes,Crop,2023-11-22 10:49:53,4401,English,NGORA,what type of soil is ideal for tomato growing?,,Nature of soil,b0083c50-0dcb-4f8d-ac04-c952124e0a06
+Tomatoes,Crop,2023-11-22 10:49:53,4404,English,NGORA,which is the best chemical for spraying aphids on tomato plants?,,Pests,d0c2bb0c-c999-4291-823e-4477be57f5ec
+Goats,Animal,2023-11-22 10:49:53,4395,English,Kabale,How can local breeds of goats be improved?,,Breeds,42118aba-d4f7-40cf-a0ee-3d50622c0fb9
+Goats,Animal,2023-11-22 10:49:53,4394,English,Kabale,Identify three main groups of breeds of goats in Uganda.,,Breeds,2f77474d-33e4-4fba-9322-1f873f1338be
+Goats,Animal,2023-11-22 10:49:53,4453,English,NGORA,What breed of goat is for skin ,,Breeds,490f6415-d2c5-49f4-a8e7-ef935806510e
+cattle,Animal,2023-11-22 10:49:53,4447,English,Kumi,How many times does a sheep give birth in one year?,,Veterinary care,8b9fd340-e637-4bc4-ae2d-1a2ced05ef97
+Goats,Animal,2023-11-22 10:49:53,4452,English,NGORA,what signs does a farmer realize on his kids when they are infected by Toxemia disease?,,Breeds,83943bee-437e-40eb-9045-f42e815957e9
+Tomatoes,Crop,2023-11-22 10:49:53,4410,English,NGORA,what signs does a farmer realize on a tomato plant affected by cucumber Mosaic disease?,,Diseases,485ba4d1-c4be-42c1-969b-bc51b44fadbc
+Tomatoes,Crop,2023-11-22 10:49:53,4412,English,NGORA,what signs does a farmer realize on a tomato plant affected by Nematode disease?,,Diseases,1df6b4cf-eff5-4b8e-bf86-fd227f8176b4
+Tomatoes,Crop,2023-11-22 10:49:53,4411,English,NGORA,what signs does a farmer realize on a tomato plant affected by Tobacco mosaic disease?,,Diseases,0d2cdc79-868b-45d0-8ef0-f1e0d1287be0
+Goats,Animal,2023-11-22 10:49:53,4455,English,NGORA,what breed of goats is of superior quality skin?,,Breeds,fe0fc904-770b-4997-baeb-4344f3228503
+Goats,Animal,2023-11-22 10:49:53,4449,English,NGORA,what is the best booster feed for broiler chickens.,,Vaccination,0806c60c-7ec9-41f6-b4f0-dab3d5083f67
+Goats,Animal,2023-11-22 10:49:53,4451,English,NGORA,what signs does a farmer realize on his kids when they are infected by pulpy disease?,,Diseases,c582a327-ab75-4166-ab11-cb6947335919
+cattle,Animal,2023-11-22 10:49:53,4425,English,Kumi,what are the best maize seeds for Soroti District soils?,,Breeds,fca33cc2-c1b3-45fe-be94-bc8c03c84121
+Goats,Animal,2023-11-22 10:49:53,4454,English,NGORA,what breed of goats is of brown colour with too long black patches running parallel from the eyes to the nostril?,,Breeds,e37f4a88-3f58-4de5-bb43-b8814457425b
+Goats,Animal,2023-11-22 10:49:53,4456,English,NGORA,what breed of goats is of large pendulous ears and roman nose?,,Breeds,590b41d3-8b77-4c4a-be36-b18545482c07
+Goats,Animal,2023-11-22 10:49:53,4457,English,NGORA,what breed of goats posse a glossy coat?,,Products,52ab8f62-f62f-4a03-9ff2-f6ae07d0de80
+cattle,Animal,2023-11-22 10:49:53,4501,English,Uganda,How do you provide the need of animals on a farm,,Veterinary care,31f11032-dcfb-48ce-ab7c-0ae7831e0b3b
+cattle,Animal,2023-11-22 10:49:53,4500,English,Uganda,How is the office important to farmers,,Veterinary care,9b9d5a7b-aa8f-4b79-b5ce-99e6976bed27
+Goats,Animal,2023-11-22 10:49:53,4465,English,NGORA,what are the major causes of poultry vices,,Diseases,7cfebd81-a596-4dee-ba33-139fbfa2b61c
+Goats,Animal,2023-11-22 10:49:53,4460,English,NGORA,what breed of goats is heavily spotted on white colour?,,Products,a586fcb1-4816-441e-8a8b-bc32e5cc7429
+Goats,Animal,2023-11-22 10:49:53,4459,English,NGORA,what breed of goats is of red and tan in colour?,,Breeds,d58a1077-877e-437c-a82f-4189e5f6a9a6
+Goats,Animal,2023-11-22 10:49:53,4472,English,NGORA,Is it ideal for a farmer to feed his goats on kitchen wastes like vegetable tops and grains?,,Feeds/ Food,cdd3fc3e-b1f5-4f70-bbb4-b1d98bc71107
+Goats,Animal,2023-11-22 10:49:53,4468,English,NGORA,what signs does a farmer realize on his goats when they infected by internal parasites?,,Vaccination,70115cbd-ecd0-4ad0-b2ff-c5ffe88da904
+Goats,Animal,2023-11-22 10:49:53,4467,English,NGORA,what are the vices of pica in poultry,,Diseases,d22a6173-fcb2-4aa0-91d8-e1b7db10c091
+Goats,Animal,2023-11-22 10:49:53,4463,English,NGORA,what signs does a farmer realize on his goats when they are infected by foot rot disease?,,Diseases,73fd8b89-f48d-43df-85a8-1a52dc8baeaa
+Goats,Animal,2023-11-22 10:49:53,4478,English,NGORA,What role does transport play in agriculture,,Veterinary care,c633179a-11fd-4399-ab6b-dac11fc903ec
+Goats,Animal,2023-11-22 10:49:53,4462,English,NGORA,what signs does a farmer realize on his goats when they infected by mastitis disease?,,Diseases,af847bd7-1039-40ec-895a-1625c8a19c8a
+Goats,Animal,2023-11-22 10:49:53,4458,English,NGORA,How much does a farmer realize from keeping jamunapari breed of goats interms of milk production?,,Breeds,611239e2-997f-4cdc-be1f-284f3cd0061f
+Goats,Animal,2023-11-22 10:49:53,4499,English,Uganda,what are the importance of veterinary care,,Veterinary care,671d719a-d2a6-40b3-b391-b6ad55c1cc9e
+Goats,Animal,2023-11-22 10:49:53,4461,English,NGORA,How much does a farmer realize from keeping beetal breed of goats interms of milk production?,,Diseases,fbfcd35a-a940-4367-b597-3ca227bd0871
+Goats,Animal,2023-11-22 10:49:53,4480,English,NGORA,what are the common problems and challenges farmers face when transporting goods,, ,f2fbfe99-4720-4d0e-8f4a-75b93b52b69f
+Goats,Animal,2023-11-22 10:49:53,4531,English,Wakiso,why is it that goat meat is sweeter than beef?,,Products,7346bd4c-164c-4b53-950d-af2d9ecadfb1
+Goats,Animal,2023-11-22 10:49:53,4515,English,NGORA,Is it ideal for a farmer to feed his goats on protein and minerals?,,Feeds/ Food,1b43fb94-011d-4a2a-b0b5-4c44ade07f79
+Goats,Animal,2023-11-22 10:49:53,4530,English,Wakiso,How much is a goat bought a young one.,,Prices,56f16ae1-b244-4598-9ea0-3b7dbbe5f805
+Goats,Animal,2023-11-22 10:49:53,4513,English,NGORA,What is the heat rate or period of a goat,,"Livestock selection and breeding - Animal characteristics and traits, Veterinary care",4dad60cd-8ebc-4def-87aa-aea63a29dc20
+Goats,Animal,2023-11-22 10:49:53,4526,English,Wakiso,Is it possible for a farmer to keep goats purposely for milk?,,Products,f691b083-1e7a-4dc6-9627-e3e71311593a
+Goats,Animal,2023-11-22 10:49:53,4514,English,NGORA,what signs does a farmer realize when his goats are infected by CCPP disease?,,Diseases,9ada9d0c-b29a-4ec7-b27e-139ff1b553b6
+Goats,Animal,2023-11-22 10:49:53,4528,English,Wakiso,when do we vaccinate goats ?,,Vaccination,d96c1ce1-5673-4b27-812a-8e7d3e7cf746
+Goats,Animal,2023-11-22 10:49:53,4512,English,NGORA,How can a farmer determine the ages of his goats?,,Veterinary care,7be04c31-e873-4062-93af-590fbb8e723f
+tomatoes,Crop,2023-12-13 02:41:54,5593,English,Kayunga,How often should tomatoes be watered?,,Seeds,af92a547-e57b-4b64-8419-7eb4798d5a67
+tomatoes,Crop,2023-11-22 11:03:46,4576,English,Wakiso,which variety of tomatoes takes long harvesting season,,Harvesting,81961a3c-91fe-4b1e-98f7-d9ab8de7a6f7
+tomatoes,Crop,2023-11-22 11:03:46,4562,Luganda,KAYUNGA,Ennyanya bwetandiika okukuba entengo njifuyira ddagala ki?,,Fertilizers,b3719168-5881-44cc-9329-494079c61096
+tomatoes,Crop,2023-11-22 11:03:46,4553,Luganda,KAYUNGA,Ttaka ki lyenyinza okulimako ennyanya zange nezikula bulungi?,,Nature of soil,302fc669-064c-40b0-bab7-1a8d0780ae27
+tomatoes,Crop,2023-11-22 11:03:46,4561,Luganda,KAYUNGA,Tujjako wa ensigo ze nnyanya ezigumira kibabuko.,,Seeds,e7e1fb71-bf9a-4766-b16b-033f3edfc649
+tomatoes,Crop,2023-11-22 11:03:46,4552,Luganda,KAYUNGA,Nkozesa ddi phosphorus mu nnyanya zange?,,Fertilizers,0b183d6a-7929-4514-aab0-d4ac8d1c475b
+tomatoes,Crop,2023-11-22 11:03:46,4574,English,Wakiso,what is the best type of soil good for planting tomatoes.,,Nature of soil,84c368e8-ce26-4348-9e0a-41dba31d499d
+Goats,Animal,2023-11-22 11:03:46,4573,Luganda,KAYUNGA,Embuzi bwezaala ntandiika ddi okujikama amata?,,Harvesting,0cb4be3f-97a0-429d-8f62-f92a78bc7f01
+Goats,Animal,2023-11-22 11:03:46,4565,English,KAYUNGA,when and how do we vaccinate goats?,,Vaccination,761d60a8-635d-429a-8531-a7d5b53855af
+Goats,Animal,2023-11-22 11:03:46,4572,Luganda,KAYUNGA,kika kya mbuzi ki kyenyinza okulunda ekikula amangu?,,Breeds,6f4cb2df-e178-464a-a1d8-f0691c3349d5
+Goats,Animal,2023-11-22 11:03:46,4570,Luganda,KAYUNGA,Birungo ki bye nina okuwa embuzi zange okukula obulungi?,,Species,8d34f856-4bf8-4efc-92ab-892392d1d7b5
+onions,Crop,2023-11-22 10:40:00,4352,English,Ngora,What type of soil is best for onion growing ,,Nature of soil,17924ab7-7c39-40a1-b03f-0537b34685f3
+tomatoes,Crop,2023-11-22 10:49:53,4417,Luganda,KAYUNGA,How important are roads to farmers who grow sweet potatoes,,Market,5f103a30-126e-4a41-8637-fc422aed3144
+tomatoes,Crop,2023-11-22 11:03:46,4577,English,Wakiso,what is that disease that causes black sports on tomato leaves?,,Diseases,9f5ef160-cdd3-4a3a-86ca-e6681c75370d
+tomatoes,Crop,2023-11-22 10:40:00,4318,English,Wakiso,"During day,  what is the best time for transplanting Tomatoes?",,Weather,1f7f9169-cfa9-4424-a999-d4172391f616
+tomatoes,Crop,2023-11-22 10:40:00,4387,English,Teso region,Disadvantages of planting tomatoes in Teso region,,Nature of soil,b2941a0f-39e1-41b8-a742-f1aa484b3298
+beetroot,Crop,2023-11-22 09:07:10,4054,English,Masaka,what type of soil is best for farmers grow beatroot,,Nature of soil,df714e28-057e-42c5-9821-a7df32bf551f
+tomatoes,Crop,2023-11-22 10:40:00,4240,English,mayuge district,what are some of the best variety of tomatoes that are on market today in mayuge district,,Market,acc5bf0d-fde4-4e4c-b6c7-7d17cb215052
+tomatoes,Crop,2023-11-22 09:07:10,4020,English,Ngora,what are the major causes of early ripening of tomatoes,,Diseases,8f364ce6-c554-48b9-bc91-6789a92bf82f
+onions,Crop,2023-11-22 10:40:00,4365,English,Ngora,Why do eyes produce tears and mucus from the nose when one is slicing onions,,Seeds,7592cf48-f870-4c2e-b3be-d63ff3517b6e
+tomatoes,Crop,2023-11-22 11:03:46,4575,English,Wakiso,which variety is good for planting?,,Varieties,5fa8862e-fdf1-4a13-a915-ffa1a6ba1038
+tomatoes,Crop,2023-11-22 11:03:46,4549,Luganda,KAYUNGA,Bigimusa ki ebiyamba emirandira okuguma mu ttaka n'okusika amazzi agamala .,,Fertilizers,a8068b43-5685-471f-a773-b6e249487bbf
+avocado,Crop,2023-11-22 09:07:10,3976,English,Kamuli,which pests commonly destroy avocado?,,Pests,631af2fb-5547-4432-93b6-09ae6225a0c1
+tomatoes,Crop,2023-11-22 10:40:00,4278,English,Wakiso,How many types of tomatoes do we have?,,Varieties,2ebb8219-e8f6-4bf8-b072-2518c52ede78
+tomatoes,Crop,2023-11-22 10:40:00,4242,English,mayuge district,How can I grow my tomatoes season after season even when it is shining in mayuge district,,Seeds,9ea58c47-bdba-4aba-b4af-431ae5afa597
+tomatoes,Crop,2023-11-22 10:40:00,4279,English,Wakiso,what is necessary in making a nursery bed for tomatoes ,,Nature of soil,df4190c8-5ca1-4a3c-9e7b-f538ef87c319
+Goats,Animal,2023-11-22 10:49:53,4450,English,NGORA,What is the proper stage of vaccinating kid s on a goat farm,,"Livestock selection and breeding - Animal characteristics and traits, Diseases",58599320-9cf7-4314-a677-8eee644e3267
+Goats,Animal,2023-11-22 10:49:53,4527,English,Wakiso,what are the products of a goat.,,Products,e1f6fa5e-1779-4caf-8697-be6461ca62e4
+Cattle,Animal,2023-11-15 07:16:30,3840,English,Jinja city,where can I sell my hides from My cattle in Uganda,,"Livestock selection and breeding - Animal characteristics and traits, Prices",7b767a85-6468-400b-ac6b-398ae4cd1407
+Tomatoes,Crop,2023-11-22 10:49:53,4406,English,NGORA,which is the best chemical for spraying white flies on a tomato plant?,,Pests,3c185bb6-bcf2-43ec-9fe9-ce65a749c445
+cattle,Animal,2023-11-22 09:32:01,4194,English,Kabale,where in kabale can one get good cows of a good breed for farm improvement ?,,Breeds,0bfaa79a-1f60-4289-87f0-aa512dfacf01
+cattle,Animal,2023-11-22 09:07:10,3960,English,Kabale,What are the signs of a cow on heat?,,"Livestock selection and breeding - Animal characteristics and traits, Species",4fd31cba-c923-493e-9f88-ef74497d3a6b
+cattle,Animal,2023-11-22 09:32:01,4159,English,Iganga,Is cow dung a good natural fertilizer ?,,Fertilizers,63685158-d3c0-41dd-845b-fcc61bd04fee
+Cattle,Animal,2023-11-15 07:16:30,3845,English,Ngora,Can dehorning affect the growth of a bull?,,"Livestock selection and breeding - Animal characteristics and traits, Breeds",f1df0a3f-ccba-4a74-9ffe-bf86f8762abd
+Goats,Animal,2023-11-22 10:49:53,4475,English,NGORA,what is agribusiness and why is it important,,"Livestock selection and breeding - Animal characteristics and traits, Veterinary care",d29c94fa-7d76-4bfc-8c69-2e70a365cbcc
+cattle,Animal,2023-11-22 10:40:00,4358,English,kumi,why is important to carry such a activity in animal farming,,Veterinary care,8f4980ac-4654-4337-bbf7-c86688316d3f
+cattle,Animal,2023-11-22 09:07:10,3938,English,Ngora,Why is it that every cattle farm at the gate you are made to deep your legs in water before you enter the crawl/ paddock?,,Vaccination,6d8125d1-b16b-47c0-ae18-1a19e8a21eeb
+Tomatoes,Crop,2023-11-22 10:40:00,4294,English,Kamuli,How best can a farmer transport harvested tomatoes safely to the market?,,Transport,3f16af37-2f57-4438-92bc-67f20728d903
+Tomatoes,Crop,2023-11-22 10:49:53,4403,English,NGORA,what signs does a farmer see on a tomato plant affected by Blight disease?,,Diseases,3531ecb1-9af9-4c42-beac-6d33a7220ac2
+Goats,Animal,2023-11-22 10:49:53,4529,English,Wakiso,Goats are dewormed as other animals.When do we deworm them?,,Deworming,41e84958-6066-4906-b56a-b53dd9f77d5c
+Goats,Animal,2023-11-22 10:40:00,4276,Luganda,Kamuli,Dagalaki eryabiwuka erisinga okukola obulungi ku mbuzi,,Deworming,2dc445e2-9b44-48e3-b527-48d160f5ac1c
+cattle,Animal,2023-11-22 09:32:01,4203,Luganda,kamuli,Lwaki enkwa (ticks) zisinga kutawanya nte nzirugavu?,,Veterinary care,6e8096d5-bf8a-4d31-ba8c-32e09a1d3658
+cattle,Animal,2023-11-22 10:49:53,4476,English,Uganda,Is it ideal for a farmer to keep the breeding buck separately from doe and kids?,,Products,1002a7f6-b428-4214-a860-ea43240f248a
+Goats,Animal,2023-11-22 10:49:53,4471,English,NGORA,what signs does a farmer realize on his chicken when they infected by fowl pox disease?,,Feeds/ Food,bf91829f-8ce3-4026-a853-0025910f8eb7
+Cattle,Animal,2023-11-15 07:16:30,3747,English,Ngora,Is it ideal for a farmer to apply salt on his hides and skin during drying?,,"Livestock selection and breeding - Animal characteristics and traits, Products",fefea8f1-2ec3-4582-a363-3cc20591f111
+coffee,Crop,2023-11-15 07:16:30,3927,English,Kayunga,what color is the wood beneath the bark of the coffee stem if it has been attacked by coffee wilt disease?,,"Integrated Pest Management (IPM) - IPM in Practice, Diseases",a87fb063-8986-4326-8a3d-f39fef76cf78
