@@ -4,3 +4,4 @@ base.py
 index.html
 index_1.html
 .env
+gates_endpoint/*
